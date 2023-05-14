@@ -1,7 +1,7 @@
 //Production
 const config = {
     local: "http://localhost:8000",
-    production: "https://blog-server-llqa.onrender.com"
+    production: "https://food-app-server-zepl.onrender.com"
 }
 
 //Locally(url's are written opposite)
