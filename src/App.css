@@ -1,0 +1,33 @@
+.App {
+    overflow: hidden;
+}
+
+.search-div {
+    margin-top: 30px;
+}
+
+.search-div input {
+    width: 87%;
+    padding: 8px 0;
+    margin-right: 5px;
+}
+
+.search-div button {
+    background-color: rgb(0, 0, 0);
+    border: transparent;
+    padding: 9.3px 25px;
+    color: white;
+}
+
+@media only screen and (max-width: 760px) {
+    .search-div {
+
+        width: 95%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .search-div input {
+        width: 80%;
+    }
+}
